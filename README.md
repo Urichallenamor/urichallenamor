@@ -13,8 +13,8 @@ I am Urich Allen Amor, a dynamic and passionate individual deeply immersed in th
 ## Certification
 
 - *[Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2B5E9F997D69A50602902815B520336BC43F9D5EC1AEE784EECB1157D9ED3A6B&fbclid=IwAR3-8fT-dR7tatM71twPnM-e_5GbgXangC5EI8CuzOyiw3128qUmU2ddEvQ)*
-- *[Oracle Cloud Data Management 2023 Certified Foundations Associate]([certification_link2](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9DD9B142966113CF3E6D83E2EF1ED3DF087A31F72A9EADCDC450A0A4797018C9)*
-- *[Oracle Cloud Infrastructure 2023 Certified Foundations Associate]([certification_link3](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7D337465277C841EBBE2193511F9C76E69569D997ABBA07857038946334D1375)*
+- *[Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9DD9B142966113CF3E6D83E2EF1ED3DF087A31F72A9EADCDC450A0A4797018C9)*
+- *[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7D337465277C841EBBE2193511F9C76E69569D997ABBA07857038946334D1375)*
 - *[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/be55a55aae7a4f84a176204057e610aa)*
 
 ## Skill Sets
