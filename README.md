@@ -16,6 +16,7 @@ I am Urich Allen Amor, a dynamic and passionate individual deeply immersed in th
 - *[Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9DD9B142966113CF3E6D83E2EF1ED3DF087A31F72A9EADCDC450A0A4797018C9)*
 - *[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7D337465277C841EBBE2193511F9C76E69569D997ABBA07857038946334D1375)*
 - *[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/be55a55aae7a4f84a176204057e610aa)*
+- *[NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/d2e5fe8a0ad34538ae237272f3bb4991).*
 
 ## Skill Sets
 
